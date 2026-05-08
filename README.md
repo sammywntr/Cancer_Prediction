@@ -15,3 +15,5 @@ This project focuses on predicting the probability of recurrence in patients who
 
 ### **Documentation**
 The complete analysis, code, and visualizations are available in the .ipynb file in this repository. (Technical documentation is provided in Spanish).
+
+**Developed By:** Samantha Castro
